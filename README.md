@@ -1,8 +1,7 @@
-# HackyHour Würzburg
-## About
-Come to talk about Code, Tools and Science in a social environment.
-If you have a problem in one of those areas: bring it along and get help.
-We also plan to make hands on sessions where we learn and apply new techniques or tools.
-You can also find companions to join a professional or fun project.
+# HackyHour Bielefeld
 
-For up to date information visit our [website](http://hackyhour.github.io/template/).
+## About
+
+Our Hacky Hour features interesting (research) software applications, tools, and libraries. The Hacky Hour takes place on the first Friday of each month. Anyone interested can participate, it is not necessary to register in advance.
+
+For more information check out our [website](https://hackyhour.github.io/Bielefeld/)
