@@ -1,4 +1,8 @@
-# HackyHour Wuerzburg
-We are a group of young scientists that meets once a month to work together on all kinds of challenges.
+# HackyHour Bielefeld
 
-[Here is the awesome Website we are building...](http://hackyhour.github.io/template/)
+## About
+
+Our Hacky Hour features interesting (research) software applications, tools, and libraries. The Hacky Hour takes place on the first Friday of each month. Anyone interested can participate, it is not necessary to register in advance.
+
+For more information check out our [website](https://hackyhour.github.io/Bielefeld/)
+
