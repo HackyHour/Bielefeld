@@ -10,14 +10,14 @@ You can come without registration.
 
 # Topics
 
-In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
+In addition to the open discussions we also aim to talk about specific topics at each [HackyHour](http://www.uni-bielefeld.de/open-science/hacky-hour/).
 However prior knowledge or interest in these topics is not a prerequisite.
 
 | Date       | Topic      | Summary |
 | ---------- |------------| ----------:|
-| 2019-05-03 | Jupyter Notebooks | [HackyHour](https://www.uni-bielefeld.de/open-science/hacky-hour) |
-| 2019-06-07 | Catmandu | [HackyHour](https://www.uni-bielefeld.de/open-science/hacky-hour) |
-| 2019-07-05 | Git + GitLab | [HackyHour](https://www.uni-bielefeld.de/open-science/hacky-hour) |
+| 2019-05-03 | Jupyter Notebooks | [abstract](http://www.uni-bielefeld.de/open-science/hacky-hour/2019-05-03_jupyter-notebook/) |
+| 2019-06-07 | Catmandu | [abstract](https://www.uni-bielefeld.de/open-science/hacky-hour/2019-06-07_catmandu/) |
+| 2019-07-05 | Git + GitLab | [abstract](http://www.uni-bielefeld.de/open-science/hacky-hour/2019-07-05_git/) |
 
 # Inspiration
 This project is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/).
