@@ -15,10 +15,10 @@ However prior knowledge or interest in these topics is not a prerequisite.
 
 | Date       | Topic      | Summary |
 | ---------- |------------| ----------|
-| 2019-10-11 | Wir hacken einen Webserver – Sicherheitslücken verstehen, ausnutzen und vermeiden mit DVWA| [abstract](https://www.uni-bielefeld.de/open-science/hacky-hour/2019-10-11_dvwa/) |
-| 2019-07-05 | Git + GitLab | [abstract](http://www.uni-bielefeld.de/open-science/hacky-hour/2019-07-05_git/) |
-| 2019-06-07 | Catmandu | [abstract](https://www.uni-bielefeld.de/open-science/hacky-hour/2019-06-07_catmandu/) |
-| 2019-05-03 | Jupyter Notebooks | [abstract](http://www.uni-bielefeld.de/open-science/hacky-hour/2019-05-03_jupyter-notebook/) |
+| 2019-10-11 | Wir hacken einen Webserver – Sicherheitslücken verstehen, ausnutzen und vermeiden mit DVWA| [abstract](https://aktuell.uni-bielefeld.de/event/hacky-hour-wir-hacken-einen-webserver/) |
+| 2019-07-05 | Git + GitLab | [abstract](https://aktuell.uni-bielefeld.de/event/hacky-hour-gitlab-ci/) |
+| 2019-06-07 | Catmandu | [abstract]( https://aktuell.uni-bielefeld.de/event/hacky-hour-catmandu/) |
+| 2019-05-03 | Jupyter Notebooks | [abstract](https://aktuell.uni-bielefeld.de/event/hacky-hour-jupyter-notebook/) |
 
 # Inspiration
 This project is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/).
